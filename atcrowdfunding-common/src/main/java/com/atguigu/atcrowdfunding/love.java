@@ -10,5 +10,6 @@ public class love {
     public static void main(String[] args) {
         System.out.println("master");
         System.out.println("这是dev");
+        System.out.println("这是dev李四");
     }
 }
